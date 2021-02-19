@@ -1,4 +1,4 @@
-# Computer-Vision-Assignments
+# Computer-Vision-Assignments | SBU CSE 527
 
 ## HomeWork 5 (Pix2Pix paper Implementation):
 Implemented Pix2Pix Paper in PyTorch, cGAN Architecture was according to the paper (U-Net).
